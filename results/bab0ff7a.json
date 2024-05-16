@@ -1,5 +1,5 @@
 {
-    "remarks": "05%2B%F0%9F%8C%A8%F0%9F%87%AC%F0%9F%87%A7%2B%40Surfboardv2ray",
+    "remarks": "10e51aio",
     "log": {
         "access": "",
         "error": "",
@@ -12,11 +12,11 @@
             "settings": {
                 "vnext": [
                     {
-                        "address": "crackthecode.ftp.sh",
+                        "address": "frag.pluk.cloud",
                         "port": 443,
                         "users": [
                             {
-                                "id": "43e00e4c-2316-4dc9-8262-cef31886dc56",
+                                "id": "c4f0e4c3-850b-4a5f-bf8d-f064d0bdd350",
                                 "alterId": 0,
                                 "email": "t@t.tt",
                                 "security": "auto",
@@ -31,17 +31,13 @@
                 "network": "ws",
                 "wsSettings": {
                     "path": "",
-                    "headers": {
-                        "Host": "vcp3.cushingreflex5.wOrKerS.DEv"
-                    }
+                    "headers": {}
                 },
                 "security": "tls",
                 "tlsSettings": {
                     "allowInsecure": true,
-                    "serverName": "vcp3.cushingreflex5.wOrKerS.DEv",
-                    "alpn": [
-                        "h2"
-                    ],
+                    "serverName": "",
+                    "alpn": [],
                     "show": false
                 },
                 "sockopt": {
