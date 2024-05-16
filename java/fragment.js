@@ -59,7 +59,7 @@ function apply() {
                     "domainStrategy": "AsIs",
                     "fragment": {
                         "packets": "tlshello",
-                        "length": "1-5",
+                        "length": "20-100",
                         "interval": "1-5"
                     }
                 },
